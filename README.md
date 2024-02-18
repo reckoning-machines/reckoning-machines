@@ -1,4 +1,4 @@
-I'm a software developer learning data science / open source code augmented workflows in investing.
+Machine Learning engineering for investing.
 I can be reached at jed@jedgore.com
 
 <!---
