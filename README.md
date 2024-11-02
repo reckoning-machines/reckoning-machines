@@ -1,6 +1,7 @@
 Better reckoning, with machines
 
-Machine Learning engineering for investing.
+Machine Learning engineering for investing and forecasting
+
 We can be reached at reckoningmachines@gmail.com
 
 <!---
