@@ -1,4 +1,4 @@
-##Better reckoning, with machines
+Better reckoning, with machines
 
 Machine Learning engineering for investing.
 We can be reached at reckoningmachines@gmail.com
