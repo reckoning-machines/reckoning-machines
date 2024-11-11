@@ -2,6 +2,8 @@ Better reckoning, with machines
 
 Machine Learning engineering for investing and forecasting
 
+www.reckoningmachines.com
+
 We can be reached at reckoningmachines@gmail.com
 
 <!---
