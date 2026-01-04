@@ -1,6 +1,6 @@
 Better reckoning, with machines
 
-Machine Learning engineering for investing and forecasting
+Investment Decision Systems
 
 www.reckoningmachines.com
 
