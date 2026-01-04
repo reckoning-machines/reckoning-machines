@@ -1,6 +1,6 @@
 Better reckoning, with machines
 
-Investment Decision Systems
+A professional services firm that builds judgment systems for capital allocators.
 
 www.reckoningmachines.com
 
